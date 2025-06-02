@@ -1,4 +1,4 @@
-# 🐍 Python OOP: Encapsulation with Private Members
+#  Python OOP: Encapsulation with Private Members
 
 ## 🎯 AIM
 
